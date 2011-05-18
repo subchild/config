@@ -1,11 +1,11 @@
 " Basic Commands
 " set autoread
-" set nocompatible
+set nocompatible
 set autoindent
 set smartindent
-" set showmatch
+set showmatch
 " set guioptions-=T
-" set ruler
+set ruler
 " set hls
 " set nu
 " set incsearch
@@ -38,8 +38,8 @@ let &t_Co=265
 
 " Text Formatting and Layout
 set nowrap
-set tabstop=2
-" set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 
 " Key Bindings
 " let mapleader = ","
