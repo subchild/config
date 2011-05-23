@@ -9,7 +9,7 @@ set ruler
 " set hls
 " set nu
 " set incsearch
-" set mouse=a
+set mouse=a
 " set noswapfile
 " set nowb
 " set nobackup
@@ -52,8 +52,8 @@ set shiftwidth=4
 " nnoremap <Leader>u :GundoToggle<CR>
 
 " Enable features
-" call pathogen#runtime_append_all_bundles()
-" call pathogen#helptags()
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
 " let g:fuf_modesDisable = ['mrucmd']
 filetype plugin on
 
