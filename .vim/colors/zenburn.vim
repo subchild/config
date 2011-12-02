@@ -4,7 +4,7 @@
 " URL:          http://slinky.imukuppi.org/zenburnpage/
 " License:      GNU GPL <http://www.gnu.org/licenses/gpl.html>
 "
-" Nothing too fancy, just some alien fruit salad to keep you in the zone.
+" Nothing too fancy, just some alien fruit salad to keep you in the zone..
 " This syntax file was designed to be used with dark environments and
 " low light situations. Of course, if it works during a daybright office, go
 " ahead :)
