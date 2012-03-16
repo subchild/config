@@ -56,5 +56,6 @@ call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 " let g:fuf_modesDisable = ['mrucmd']
 filetype plugin on
+au BufNewFile,BufRead *.styl set filetype=css
 
 color molokai 
