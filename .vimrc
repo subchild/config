@@ -40,6 +40,7 @@ let &t_Co=265
 set nowrap
 set tabstop=4
 set shiftwidth=4
+set expandtab
 
 " Key Bindings
 " let mapleader = ","
