@@ -60,4 +60,9 @@ call pathogen#helptags()
 filetype plugin on
 " au BufNewFile,BufRead *.styl set filetype=css
 
+let g:syntastic_javascript_checkers = ['eslint']
+
 color molokai 
+set guifont=Hack:h11
+
+:cd /Users/akrs/dev
